@@ -6,11 +6,11 @@
     "configurations": [
         
         {
-            "name": "Debug Android",
+            "name": "Debug in Exponent",
             "cwd": "${workspaceFolder}",
             "type": "reactnative",
             "request": "launch",
-            "platform": "android",
+            "platform": "exponent",
             "isDynamic": true
         }
     ]
